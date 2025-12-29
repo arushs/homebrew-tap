@@ -1,8 +1,8 @@
 class Aimeter < Formula
   desc "Menu bar app for tracking AI coding agents (Claude Code, OpenCode, Aider, etc.)"
   homepage "https://github.com/arushs/menubar-agent"
-  url "https://github.com/arushs/menubar-agent/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "0ba06d063bd13f97525585c23ddfa759f30be1382b035ff0e0ec55463f593693"
+  url "https://github.com/arushs/menubar-agent/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "2436009371c35ef6ee4206835a5555a6c2d0b8cbb79efe94b2fbff63c9670bf9"
   license "MIT"
 
   depends_on :macos
